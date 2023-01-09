@@ -22,8 +22,8 @@ void main ()
 do{
 	system("cls");
 	printf("\n----------------------------------------------------------------------------"); 
-	printf(" \n \t \t Welcome To Groat Clinic Mangment System \n"); 
-	printf("\t \t    For Sychopath and Mental Heath  \n"); 
+	printf(" \n \t \t Welcome To Clinic Mangment System \n"); 
+	printf("\t \t    For Mental Heath  \n"); 
 	printf("\t \t \t    By M. Alnomrosi \n"); 
 	
 	 
